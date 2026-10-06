@@ -1,0 +1,13 @@
+{
+  "name": "bun-typescript-hello",
+  "version": "1.0.0",
+  "description": "Bun + TypeScript hello world program",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun run --watch index.ts"
+  },
+  "keywords": ["bun", "typescript"],
+  "author": "",
+  "license": "MIT"
+}
