@@ -1,0 +1,6 @@
+[package]
+name = "bun-typescript-hello"
+version = "1.0.0"
+
+[build]
+target = "bun"
